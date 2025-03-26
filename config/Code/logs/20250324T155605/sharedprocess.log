@@ -1,0 +1,8 @@
+2025-03-24 15:56:10.209 [info] Getting Manifest... github.copilot
+2025-03-24 15:56:10.508 [info] Installing extension: github.copilot {"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bryan/.vscode/extensions/extensions.json","path":"/home/bryan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-03-24 15:56:10.732 [info] Getting Manifest... github.copilot-chat
+2025-03-24 15:56:11.467 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 453ms.
+2025-03-24 15:56:11.724 [info] Extracted extension to file:///home/bryan/.vscode/extensions/github.copilot-1.291.0: github.copilot
+2025-03-24 15:56:11.727 [info] Renamed to /home/bryan/.vscode/extensions/github.copilot-1.291.0
+2025-03-24 15:56:11.734 [info] Marked extension as removed github.copilot-1.288.0
+2025-03-24 15:56:11.737 [info] Extension installed successfully: github.copilot vscode-userdata:/home/bryan/.vscode/extensions/extensions.json
